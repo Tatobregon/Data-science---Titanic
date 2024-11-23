@@ -39,10 +39,10 @@ Este proyecto aborda la predicción de supervivencia de pasajeros del Titanic ut
 - **Otros**: Comparación con regresión logística y Gradient Boosting.  
 
 ### 4. Evaluación  
-- **Métricas**: Precisión, matriz de confusión, curva ROC-AUC.  
+- **Métricas**: accurracy, matriz de confusión, curvas de aprendizaje.  
 - **Resultados**:  
-  - Precisión del mejor modelo: **XX%**  
-  - Métricas balanceadas tras aplicar oversampling.  
+  - Precisión del mejor modelo: **87%**  
+  - Métricas balanceadas (igual cantidad de 0 y 1).  
 
 ---
 
